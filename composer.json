@@ -3,6 +3,7 @@
     "description": "Use monolog logger in Glue",
     "type": "library",
     "require": {
+        "php": ">=5.5.0",
         "monolog/monolog": "1.*"
     },
     "license": "MIT",
